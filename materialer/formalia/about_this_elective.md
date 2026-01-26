@@ -32,4 +32,5 @@ I kurset bruger vi følgende software.
 * [Python](https://www.python.org/downloads/)
 * [VS Code](https://code.visualstudio.com/download) 
 * Git & Github
+* [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * Headphones (der vil være videoer som du skal se i forbindelse med undervisningen og dem skal i kunne se uden at forstyrre andre i klassen).
