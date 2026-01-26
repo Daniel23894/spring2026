@@ -9,13 +9,12 @@ Et par uger inden den mundtlige eksamen skal du på Wiseflow aflevere din applik
 ## Applikationens format
 Din applikation skal gøre brug af følgende teknologier:
 
-* Streamlit
-* Flask eller FastAPI
-* Numpy, Pandas og Matplotlib
-* Vector Databaseri
-* Interaktion med en LLM´s API (feks. Mistral).    
-
-Din applikation skal desuden kunne køres ved hjælp af Docker Compose `docker compose up`, `docker compose down`.
+1. Streamlit
+2. Flask eller FastAPI
+3. Numpy, Pandas og Matplotlib
+4. Vector Databaseri
+5. Interaktion med en LLM´s API (feks. Mistral).    
+6. Din applikation skal desuden kunne køres ved hjælp af Docker Compose `docker compose up`, `docker compose down`.
 
 Hvad din applikation skal kunne er op til dig, emnet er frit.     
 **Du må dog ikke genbruge emnerne eller koden som er blevet brugt eller gennemgået gennemgået i undervisningen dette semester.** 
